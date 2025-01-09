@@ -8,6 +8,7 @@ G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Appl
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
 G:\ShopSphere\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll

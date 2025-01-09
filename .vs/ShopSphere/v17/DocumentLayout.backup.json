@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "G:\\ShopSphere\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|g:\\shopsphere\\services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|g:\\shopsphere\\services\\catalog\\catalog.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|g:\\shopsphere\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|g:\\shopsphere\\services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498CEE8-D079-4C3B-B06C-CF9D222C0050}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C708C8E8-4CA8-495D-83C1-1EA29B5FD549}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|g:\\shopsphere\\services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C708C8E8-4CA8-495D-83C1-1EA29B5FD549}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,125 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CatalogContext.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:23:10.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICatalogContext.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:21:19.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TypeContextSeed.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:08:09.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BrandContextSeed.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:00:34.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "types.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T16:59:26.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "products.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
-              "ViewState": "AgIAABcCAAAAAAAAAAAkwDECAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T16:59:05.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "brands.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T16:58:12.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Catalog.Infrastructure",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj*",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-05T16:46:16.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CatalogContextSeed.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:10:28.515Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -179,15 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:22:12.371Z",
+              "WhenOpened": "2025-01-09T17:23:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:15:58.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogContext.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:11:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:00:57.331Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\Catalog",
+    "\\Services\\Catalog\\Catalog.Core",
+    "\\Services\\Catalog\\Catalog.Infrastructure",
+    "\\Services\\Catalog\\Catalog.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\Services\\Catalog\\Catalog.Core\\Repositories",
+  "PreviewInSolutionExplorer": false
+}

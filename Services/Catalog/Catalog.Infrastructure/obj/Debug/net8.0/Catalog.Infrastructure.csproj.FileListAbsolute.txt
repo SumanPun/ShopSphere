@@ -1,3 +1,6 @@
+G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\brands.json
+G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\products.json
+G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\types.json
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.deps.json
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.dll
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.pdb
@@ -10,11 +13,9 @@ G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.I
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfo.cs
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.sourcelink.json
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog..168C4A48.Up2Date
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.dll
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\refint\Catalog.Infrastructure.dll
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.pdb
 G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\ref\Catalog.Infrastructure.dll
-G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\brands.json
-G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\products.json
-G:\ShopSphere\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\types.json
