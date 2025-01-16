@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "G:\\ShopSphere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|g:\\shopsphere\\services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|g:\\shopsphere\\services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A792B5-06D1-41E2-BA29-899EE70297B4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|g:\\shopsphere\\services\\catalog\\catalog.application\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|g:\\shopsphere\\services\\catalog\\catalog.application\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|g:\\shopsphere\\services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF50812B-2D08-49D6-8201-FA13CBF212B4}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
-              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Dockerfile",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-09T17:54:15.794Z",
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:07:11.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllProductsHandler.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllProductsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:03:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:02:01.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:59:44.947Z",
               "EditorCaption": ""
             }
           ]

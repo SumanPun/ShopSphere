@@ -9,7 +9,12 @@ G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.deps.jso
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.runtimeconfig.json
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.dll
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.pdb
+G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\AutoMapper.dll
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\DnsClient.dll
 G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
@@ -64,8 +69,3 @@ G:\ShopSphere\Services\Catalog\Catalog.API\obj\Debug\net8.0\refint\Catalog.API.d
 G:\ShopSphere\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 G:\ShopSphere\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 G:\ShopSphere\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
-G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
-G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
-G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
-G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
-G:\ShopSphere\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
