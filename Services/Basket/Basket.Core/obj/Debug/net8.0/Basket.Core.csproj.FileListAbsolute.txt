@@ -1,0 +1,12 @@
+G:\ShopSphere\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.deps.json
+G:\ShopSphere\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.dll
+G:\ShopSphere\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.pdb
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfoInputs.cache
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfo.cs
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.sourcelink.json
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.dll
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\refint\Basket.Core.dll
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.pdb
+G:\ShopSphere\Services\Basket\Basket.Core\obj\Debug\net8.0\ref\Basket.Core.dll
