@@ -1,0 +1,12 @@
+G:\ShopSphere\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.deps.json
+G:\ShopSphere\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.dll
+G:\ShopSphere\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.pdb
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfoInputs.cache
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfo.cs
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.sourcelink.json
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.dll
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\refint\Discount.Core.dll
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.pdb
+G:\ShopSphere\Services\Discount\Discount.Core\obj\Debug\net8.0\ref\Discount.Core.dll

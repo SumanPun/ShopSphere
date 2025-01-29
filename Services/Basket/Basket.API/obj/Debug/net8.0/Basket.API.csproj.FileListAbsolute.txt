@@ -63,3 +63,10 @@ G:\ShopSphere\Services\Basket\Basket.API\obj\Debug\net8.0\refint\Basket.API.dll
 G:\ShopSphere\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.pdb
 G:\ShopSphere\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.genruntimeconfig.cache
 G:\ShopSphere\Services\Basket\Basket.API\obj\Debug\net8.0\ref\Basket.API.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Google.Protobuf.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+G:\ShopSphere\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll
