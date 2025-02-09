@@ -12,13 +12,14 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       CacheSettings__ConnectionString: basketdb:6379
+      GrpcSettings__DiscountUrl: http://discount.api:8080
     image: basketapi
     networks:
       default: null
     ports:
       - mode: ingress
         target: 8080
-        published: "8081"
+        published: "8001"
         protocol: tcp
   basketdb:
     container_name: basketdb
@@ -71,6 +72,118 @@ services:
         source: mongo_data
         target: /data/db
         volume: {}
+  discount.api:
+    build:
+      context: G:\ShopSphere
+      dockerfile: Services/Discount/Discount.API/Dockerfile
+    container_name: discount.api
+    depends_on:
+      discountdb:
+        condition: service_healthy
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSettings__ConnectionString: Server=discountdb;Port=5432;Database=DiscountDb;User Id=admin;Password=Password@1;
+    image: discountapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8002"
+        protocol: tcp
+  discountdb:
+    container_name: discountdb
+    environment:
+      POSTGRES_DB: DiscountDb
+      POSTGRES_PASSWORD: Password@1
+      POSTGRES_USER: admin
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U admin
+      timeout: 5s
+      interval: 10s
+      retries: 5
+    image: postgres
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_data
+        target: /var/lib/postgresql/data
+        volume: {}
+  orderdb:
+    container_name: orderdb
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Suman1234567
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Suman1234567' -Q 'select 1'
+      timeout: 10s
+      interval: 10s
+      retries: 3
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: orderdb-data
+        target: /var/opt/mssql
+        volume: {}
+  ordering.api:
+    build:
+      context: G:\ShopSphere
+      dockerfile: Services/Ordering/Ordering.API/Dockerfile
+    container_name: ordering.api
+    depends_on:
+      orderdb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__OrderingConnectionString: Server=orderdb;Database=OrderDb;User Id=sa;Password=Suman1234567;TrustServerCertificate=True
+    image: orderingapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8003"
+        protocol: tcp
+  pgadmin:
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@eCommerce.net
+      PGADMIN_DEFAULT_PASSWORD: Password@1
+    image: dpage/pgadmin4
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "5050"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: pgadmin_data
+        target: /root/.pgadmin
+        volume: {}
   portainer:
     container_name: portainer
     image: portainer/portainer-ce
@@ -102,5 +215,11 @@ networks:
 volumes:
   mongo_data:
     name: dockercompose15935036285019033983_mongo_data
+  orderdb-data:
+    name: dockercompose15935036285019033983_orderdb-data
+  pgadmin_data:
+    name: dockercompose15935036285019033983_pgadmin_data
   portainer_data:
     name: dockercompose15935036285019033983_portainer_data
+  postgres_data:
+    name: dockercompose15935036285019033983_postgres_data

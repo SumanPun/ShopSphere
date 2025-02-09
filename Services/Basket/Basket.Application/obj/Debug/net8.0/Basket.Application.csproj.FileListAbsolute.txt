@@ -14,3 +14,5 @@ G:\ShopSphere\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Applica
 G:\ShopSphere\Services\Basket\Basket.Application\obj\Debug\net8.0\refint\Basket.Application.dll
 G:\ShopSphere\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.pdb
 G:\ShopSphere\Services\Basket\Basket.Application\obj\Debug\net8.0\ref\Basket.Application.dll
+G:\ShopSphere\Services\Basket\Basket.Application\bin\Debug\net8.0\EventBus.Messages.dll
+G:\ShopSphere\Services\Basket\Basket.Application\bin\Debug\net8.0\EventBus.Messages.pdb

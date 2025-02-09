@@ -1,0 +1,12 @@
+G:\ShopSphere\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.deps.json
+G:\ShopSphere\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.dll
+G:\ShopSphere\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.pdb
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.AssemblyInfoInputs.cache
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.AssemblyInfo.cs
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.sourcelink.json
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.dll
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\refint\Ordering.Core.dll
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.pdb
+G:\ShopSphere\Services\Ordering\Ordering.Core\obj\Debug\net8.0\ref\Ordering.Core.dll

@@ -1,0 +1,12 @@
+G:\ShopSphere\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.deps.json
+G:\ShopSphere\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.dll
+G:\ShopSphere\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.pdb
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfoInputs.cache
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfo.cs
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.sourcelink.json
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.dll
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\refint\EventBus.Messages.dll
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.pdb
+G:\ShopSphere\Infrastructure\EventBus.Messages\obj\Debug\net8.0\ref\EventBus.Messages.dll

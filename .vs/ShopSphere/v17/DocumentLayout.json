@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "G:\\ShopSphere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|g:\\shopsphere\\services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4A0FA96-E5E1-4E20-BB5B-417D7E0AC697}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|g:\\shopsphere\\services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A0FA96-E5E1-4E20-BB5B-417D7E0AC697}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|g:\\shopsphere\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|g:\\shopsphere\\services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|g:\\shopsphere\\services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|g:\\shopsphere\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|g:\\shopsphere\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,94 +66,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateShoppingCartCommandHandler.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DbExtension.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDUAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:46:13.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "G:\\ShopSphere\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "G:\\ShopSphere\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAADAAAAAAAAAAAABAPTMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-29T15:42:53.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:38:36.714Z",
+              "WhenOpened": "2025-02-09T18:02:36.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:34:00.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T15:32:21.642Z",
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "G:\\ShopSphere\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "G:\\ShopSphere\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAG0AAAAANjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-09T17:52:02.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DiscountGrpcService.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:28:35.399Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "G:\\ShopSphere\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "G:\\ShopSphere\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-09T17:51:28.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Basket.Application",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-29T15:25:01.776Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:50:49.335Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:50:28.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AgIAACUAAAAAMzMzMzMLwDYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAZmZmZmYOwCsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:25:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-09T17:53:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:24:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketOrderingConsumer.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:17:31.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderMappingProfile.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:39:51.669Z"
             }
           ]
         },

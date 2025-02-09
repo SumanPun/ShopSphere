@@ -16,3 +16,5 @@ G:\ShopSphere\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infr
 G:\ShopSphere\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\refint\Basket.Infrastructure.dll
 G:\ShopSphere\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infrastructure.pdb
 G:\ShopSphere\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\ref\Basket.Infrastructure.dll
+G:\ShopSphere\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.dll
+G:\ShopSphere\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.pdb

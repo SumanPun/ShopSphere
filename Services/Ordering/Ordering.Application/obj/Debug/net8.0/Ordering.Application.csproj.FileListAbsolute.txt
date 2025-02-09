@@ -1,0 +1,16 @@
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.deps.json
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.pdb
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Core.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Core.pdb
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.csproj.AssemblyReference.cache
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.AssemblyInfoInputs.cache
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.AssemblyInfo.cs
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.sourcelink.json
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.50CBBEA9.Up2Date
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\refint\Ordering.Application.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.pdb
+G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\ref\Ordering.Application.dll
