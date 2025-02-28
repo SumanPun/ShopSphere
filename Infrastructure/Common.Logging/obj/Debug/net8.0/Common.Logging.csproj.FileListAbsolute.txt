@@ -1,0 +1,13 @@
+G:\ShopSphere\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+G:\ShopSphere\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+G:\ShopSphere\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.sourcelink.json
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+G:\ShopSphere\Infrastructure\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll

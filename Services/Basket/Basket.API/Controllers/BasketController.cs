@@ -1,4 +1,5 @@
-﻿using Basket.Application.Commands;
+﻿using Asp.Versioning;
+using Basket.Application.Commands;
 using Basket.Application.Mappers;
 using Basket.Application.Queries;
 using Basket.Application.Responses;
@@ -11,15 +12,18 @@ using System.Net;
 
 namespace Basket.API.Controllers
 {
+    [ApiVersion("1")]
     public class BasketController : ApiController
     {
         private readonly IMediator _mediator;
         private readonly IPublishEndpoint _publishEndpoint;
+        private readonly ILogger<BasketController> _logger;
 
-        public BasketController(IMediator mediator, IPublishEndpoint publishEndpoint)
+        public BasketController(IMediator mediator, IPublishEndpoint publishEndpoint, ILogger<BasketController> logger)
         {
             _mediator = mediator;
             _publishEndpoint = publishEndpoint;
+            _logger = logger;
         }
 
         [HttpGet]
@@ -66,6 +70,8 @@ namespace Basket.API.Controllers
             var eventMsg = BasketMapper.Mapper.Map<BasketCheckoutEvent>(basketCheckout);
             eventMsg.TotalPrice = basket.TotalPrice;
             await _publishEndpoint.Publish(eventMsg);
+
+            _logger.LogInformation($"Basket Published for {basket.UserName}");
 
             //remove the basket
             var deleteQuery = new DeleteBasketByUserNameCommand(basketCheckout.UserName);

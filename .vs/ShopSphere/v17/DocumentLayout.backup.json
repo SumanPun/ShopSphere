@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "G:\\ShopSphere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|g:\\shopsphere\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|g:\\shopsphere\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2965E4F-A701-4D4D-8877-7D30ABD224C1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|g:\\shopsphere\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F4CC78-FFFE-4D5C-87B3-119715BD6CEA}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidatorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidatorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\commands\\checkoutordercommandv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\commands\\checkoutordercommandv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|g:\\shopsphere\\services\\ordering\\ordering.application\\commands\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A136B-094E-45B3-A960-7CA974E42079}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\commands\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\controllers\\v2\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\v2\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|g:\\shopsphere\\services\\basket\\basket.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3371458-AA8F-466C-9281-4059084F74E9}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|g:\\shopsphere\\services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AE6937-0264-4011-9584-26A9197F2650}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE28731-3BAC-4C96-9E10-3BBC87FA697A}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|g:\\shopsphere\\infrastructure\\eventbus.messages\\events\\basketcheckouteventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE28731-3BAC-4C96-9E10-3BBC87FA697A}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\events\\basketcheckouteventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6207BB09-18AD-41CA-8C5A-5786A2DF710C}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|g:\\shopsphere\\services\\basket\\basket.core\\entities\\basketcheckoutv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6207BB09-18AD-41CA-8C5A-5786A2DF710C}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\basketcheckoutv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6207BB09-18AD-41CA-8C5A-5786A2DF710C}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|g:\\shopsphere\\services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6207BB09-18AD-41CA-8C5A-5786A2DF710C}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,130 +82,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "G:\\ShopSphere\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "G:\\ShopSphere\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAG0AAAAANjMzMzMLwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-09T17:52:02.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "G:\\ShopSphere\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "G:\\ShopSphere\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-09T17:51:28.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T17:50:49.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T17:50:28.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AgIAACUAAAAAMzMzMzMLwDYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:26:39.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Program.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
-              "ViewState": "AgIAABwAAAAAZmZmZmYOwCsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:25:12.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Dockerfile",
-              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Dockerfile",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-09T17:53:58.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:24:38.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BasketOrderingConsumer.cs",
-              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:17:31.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "OrderMappingProfile.cs",
               "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:39:51.669Z"
+              "WhenOpened": "2025-02-28T16:29:31.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketOrderingConsumerV2.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:26:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketOrderingConsumer.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ViewState": "AgIAAA4AAABgZmZmZmYswBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:25:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutOrderCommandValidatorV2.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:22:50.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutOrderCommandValidator.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:22:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutOrderCommandV2.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:21:23.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckoutOrderCommand.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:21:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:45:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasketMappingProfile.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:43:40.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:35:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:34:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:30:24.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketCheckoutEventV2.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "ToolTip": "G:\\ShopSphere\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:30:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasketCheckoutV2.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:26:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketCheckout.cs",
+              "DocumentMoniker": "G:\\ShopSphere\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ToolTip": "G:\\ShopSphere\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:25:30.104Z",
+              "EditorCaption": ""
             }
           ]
         },

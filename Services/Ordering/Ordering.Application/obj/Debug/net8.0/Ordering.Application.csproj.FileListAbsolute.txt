@@ -14,3 +14,5 @@ G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.A
 G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\refint\Ordering.Application.dll
 G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.pdb
 G:\ShopSphere\Services\Ordering\Ordering.Application\obj\Debug\net8.0\ref\Ordering.Application.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\EventBus.Messages.dll
+G:\ShopSphere\Services\Ordering\Ordering.Application\bin\Debug\net8.0\EventBus.Messages.pdb
